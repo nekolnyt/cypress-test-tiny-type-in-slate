@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-// There is uncaught exception on the editor side, when usingf cy.type
+// There is uncaught exception on the editor side, when using cy.type
 Cypress.on('uncaught:exception', (err, runnable) => {
   return false
 })
