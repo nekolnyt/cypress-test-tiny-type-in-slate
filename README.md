@@ -1,3 +1,8 @@
+
+This repository served to provide example of this issue https://github.com/cypress-io/cypress/issues/7088. Theissue was already resolved
+
+---
+
 # cypress-test-tiny - reproduce cy.type issue in Slate.js
 
 `cy.type` command does not fire `beforeInput` event.
