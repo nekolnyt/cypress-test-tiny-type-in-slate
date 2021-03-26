@@ -1,5 +1,5 @@
 
-This repository served to provide example of this issue https://github.com/cypress-io/cypress/issues/7088. Theissue was already resolved
+This repository served to provide example of this issue https://github.com/cypress-io/cypress/issues/7088. The issue was already resolved.
 
 ---
 
